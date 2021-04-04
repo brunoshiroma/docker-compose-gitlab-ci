@@ -7,7 +7,7 @@ check_interval = 0
 [[runners]]
   name = "compose-runner-1"
   url = "http://gitlab/"
-  token = "6VDMQ-ft-JfeRtzf_pSV"
+  token = [TOKEN_VAI_SER_PREENCHIDO_AQUI_PELO_REGISTER]
   executor = "docker"
   [runners.custom_build_dir]
   [runners.cache]
